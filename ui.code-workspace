@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../awab/awab2"
+		},
+		{
+			"path": "../awab/AWAB"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "AWAB"
+	}
+}
